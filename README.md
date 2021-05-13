@@ -9,3 +9,6 @@ You can:
   6. Use completely functional timer with start, pause, and end match functions
   7. Use the produced data for further tournaments
 This is the new line added by local git bash.
+
+
+<<<< This is the changed line from local bash>>>>
