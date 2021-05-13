@@ -12,3 +12,5 @@ This is the new line added by local git bash.
 
 
 <<<< This is the changed line from local bash>>>>
+
+This branch fixes bugs
