@@ -15,3 +15,5 @@ This is the new line added by local git bash.
 <<<< This is the changed line from local bash>>>>
 
 This is new branch changes done in ths slaveBranch
+
+This is the new  line from feature branch
